@@ -24,3 +24,7 @@ ls
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak install flathub com.visualstudio.code 
 bat
+git config --get-all dionlleno
+git config --get-all "dionlleno"
+git config --global user.email "dionlleno@proton.me" 
+git config --global user.name "dionlleno"
