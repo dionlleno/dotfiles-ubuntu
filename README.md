@@ -19,5 +19,6 @@ Arquivos de configuração do Pop!\_OS com Cosmic, usando o GNU Stow para gerenc
   - Zsh History
   - Zshrc
   - Profile
+- **scripts:** scripts para execução pos-install
 
 ---
