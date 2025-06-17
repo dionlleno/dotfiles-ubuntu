@@ -28,3 +28,12 @@ git config --get-all dionlleno
 git config --get-all "dionlleno"
 git config --global user.email "dionlleno@proton.me" 
 git config --global user.name "dionlleno"
+cd .dotfiles/
+mv ../.zsh_history raiz/
+stow *
+stow raiz/.
+stow raiz/
+cd ..
+ls
+ls -la
+cat .bash_logout 
