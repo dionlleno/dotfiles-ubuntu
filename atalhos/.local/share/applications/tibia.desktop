@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tibia
+Comment=Cliente Linux para Tibia Online
+Exec=/home/dion/Games/Tibia/Tibia
+Icon=/home/dion/Games/Tibia/tibia.ico
+Terminal=false
+Type=Application
+Categories=Game;
